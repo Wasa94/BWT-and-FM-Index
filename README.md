@@ -12,3 +12,7 @@ Izvršiti optimizaciju koda iz aspekta zauzeća memorije i vremena izvršavanja.
   
 Pripremiti prezentaciju (Google slides ili power point) inicijalnog i optimizovanog algoritma, kao i samih rezultata (5 poena).
 Pripremiti video prezentaciju projekta (3 - 5 minuta trajanja) koja će biti dostupna na YouTube ili drugom on-line video servisu (10 poena).
+
+
+
+FM Index fajlovi: https://tinyurl.com/fm-index-files

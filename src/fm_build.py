@@ -27,7 +27,10 @@ def main():
         # Suffix array file
         try:
             saInd = sys.argv.index('-sa') + 1
-            print("Reading suffix array from %s" % sys.argv[1])
+            if not isfile(sys.argv[saInd]):
+                print("Suffix array file doesn't exist")
+                os.abort()
+            print("Reading suffix array from %s" % sys.argv[saInd])
             sa = utils.read_C_suffix_array(sys.argv[saInd])
             print("Finished reading...")
         except ValueError:

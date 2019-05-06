@@ -11,6 +11,7 @@ Izvršiti optimizaciju koda iz aspekta zauzeća memorije i vremena izvršavanja.
   3. Genom po slobodnom izboru iz NIH baze i proizvoljna 3 paterna različite dužine.
   
 Pripremiti prezentaciju (Google slides ili power point) inicijalnog i optimizovanog algoritma, kao i samih rezultata (5 poena).
+
 Pripremiti video prezentaciju projekta (3 - 5 minuta trajanja) koja će biti dostupna na YouTube ili drugom on-line video servisu (10 poena).
 
 ## Kako pokrenuti

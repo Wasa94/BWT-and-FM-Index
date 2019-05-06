@@ -83,4 +83,4 @@ https://tinyurl.com/fm-index-files
 
 ## Video prezentacija
 
-https://www.youtube.com/watch?v=bepB7Xqz96Q&feature=youtu.be
+https://www.youtube.com/watch?v=bepB7Xqz96Q

@@ -80,7 +80,3 @@ Pripremiti video prezentaciju projekta (3 - 5 minuta trajanja) koja će biti dos
 ## FM Index fajlovi
 
 https://tinyurl.com/fm-index-files
-
-## Video prezentacija
-
-https://www.youtube.com/watch?v=bepB7Xqz96Q
